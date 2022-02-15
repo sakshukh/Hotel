@@ -47,7 +47,7 @@ function Card({ save, hover }: PropsTypes) {
           Save
         </span>
         <img
-          src="https://www.bing.com/images/search?view=detailV2&ccid=a3eUQRnY&id=DD3590E66BCE44DE5C64E0B7E99A95060E22B557&thid=OIP.a3eUQRnYL1tYz6o3eYCT8AHaFj&mediaurl=https%3a%2f%2fimg.agoda.net%2fhotelimages%2f187%2f187013%2f187013_Main.jpg&exph=2842&expw=3792&q=Hotel&simid=608039602644787184&FORM=IRPRST&ck=C50C57C1C9F8E15D0F426594F49AE126&selectedIndex=8&ajaxhist=0&ajaxserp=0"
+          src="https://yt3.ggpht.com/a/AATXAJwxN7xZtc05NPbXVe-RITvILOflkKkNNqPYYA=s900-c-k-c0xffffffff-no-rj-mo"
           className="card-img-top"
           alt="..."
         ></img>
